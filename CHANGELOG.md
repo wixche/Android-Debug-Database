@@ -1,6 +1,22 @@
 Change Log
 ==========
 
+Version 1.0.6 *(2019-03-07)*
+----------------------------
+
+* Fix: Fix query error
+* Fix: Fix DebugDb class not found error
+
+
+Version 1.0.5 *(2019-02-18)*
+----------------------------
+
+* Reduce size by taking out encrypted database library as a separate module
+* New: Add support for database delete
+* Changed compile to implementation
+* Fix: Minor bug fixes
+
+
 Version 1.0.4 *(2018-06-23)*
 ----------------------------
 
@@ -48,7 +64,7 @@ Version 0.5.0 *(2017-01-21)*
 
 * New: Export DB
 * New: Method to get DB version
-* Fix: Fix prouard issue and other minor issues
+* Fix: Fix proguard issue and other minor issues
 
 
 Version 0.4.0 *(2016-11-29)*
